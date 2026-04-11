@@ -19,3 +19,11 @@ text = "....... is a Computer Science platform."
 tokenized_text = word_tokenize(text)
 tags = pos_tag(tokenized_text)
 print(tags)
+
+#    OUTPUT
+# ['Tokenization', 'refers', 'to', 'breakdown', 'the', 'text', 'into', 'smaller', 'units', '.']
+# ['Tokenization refers to breakdown the text into smaller units.']
+# play
+# play
+# play
+# [('.......', 'NN'), ('is', 'VBZ'), ('a', 'DT'), ('Computer', 'NNP'), ('Science', 'NNP'), ('platform', 'NN'), ('.', '.')]
