@@ -8,3 +8,6 @@ b = torch.tensor(3.0)
 c = a + b
 
 print(c)
+
+     #OUTPUT
+#tensor(5.)
