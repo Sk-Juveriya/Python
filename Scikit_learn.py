@@ -27,3 +27,7 @@ model = DecisionTreeClassifier()
 model.fit(X, y)
 
 print(model.predict([[165, 65]]))
+
+    #OUTPUT
+# [10.]
+# ['short']
