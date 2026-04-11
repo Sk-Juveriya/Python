@@ -9,3 +9,7 @@ c = a + b
 
 # Print result
 print(c)
+
+
+   #OUTPUT
+# tf.Tensor(8, shape=(), dtype=int32)
