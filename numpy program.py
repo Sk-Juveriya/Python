@@ -26,3 +26,17 @@ print(f"\nArray:{data}")
 print(f"Mean:{mean_val}")
 print(f"Minimum:{min_val}")
 print(f"Maximum:{max_val}")
+
+   # OUTPUT
+# 1D Array:[1 2 3 4 5 6]
+# 2D Array:[[1 2 3]
+#  [4 6 8]]
+
+# a:[12 56 89]
+# b:[1 0 1]
+# Element wise addition:[13 56 90]
+
+# Array:[23 56 78 90 45]
+# Mean:58.4
+# Minimum:23
+# Maximum:90
