@@ -27,7 +27,7 @@ print(f"Mean:{mean_val}")
 print(f"Minimum:{min_val}")
 print(f"Maximum:{max_val}")
 
-   # OUTPUT
+     # OUTPUT
 # 1D Array:[1 2 3 4 5 6]
 # 2D Array:[[1 2 3]
 #  [4 6 8]]
